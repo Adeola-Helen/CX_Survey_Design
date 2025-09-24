@@ -26,61 +26,61 @@ This combined approach ensured participation from both loyal returning customers
 
 Each question in the survey was designed with a clear purpose, directly tied to business needs:  
 
-1. **What is your name?** 
+1. **What is your name?**
    Basic identifier for record-keeping and follow-up, though not essential for analysis.
 
-3. **Where is your location?**   
+2. **Where is your location?**   
    Part of demographic profiling to understand where customers are coming from and support geographic targeting.  
 
-4. **How long have you been a customer at Aunty Funmi’s Place?**  
+3. **How long have you been a customer at Aunty Funmi’s Place?**  
    Measures loyalty and tenure, serving as a trust indicator.  
 
-5. **What is it about Aunty Funmi’s Place that makes you go there?**  
+4. **What is it about Aunty Funmi’s Place that makes you go there?**  
    Captures customer satisfaction drivers and highlights what to emphasize in branding and marketing.  
 
-6. **Which set(s) of service do you opt for at Aunty Funmi’s Place?** 
+5. **Which set(s) of service do you opt for at Aunty Funmi’s Place?** 
    Identifies the most popular services, helping the business know what moves better and inform product bundling strategies.  
 
-7. **How often do you come to Aunty Funmi’s Place for these services?** 
+6. **How often do you come to Aunty Funmi’s Place for these services?** 
    Supports service frequency analysis to better advise bundling decisions and customer engagement strategies.  
 
-8. **What is your marital status?**   
+7. **What is your marital status?**   
    Provides data for persona building and lifestyle-based segmentation.  
 
-9. **Is Aunty Funmi’s Place your first choice for your nail services?**  
+8. **Is Aunty Funmi’s Place your first choice for your nail services?**  
    Evaluates customer loyalty and competitive standing through the eyes of the customer.  
 
-10. **What is your Employment status?**   
+9. **What is your Employment status?**   
    Supports customer profiling by linking employment to purchasing power.  
 
-11. **If no, please state below your choice(s) of other nail salons and why they are your first choice?**  
+10. **If no, please state below your choice(s) of other nail salons and why they are your first choice?**  
     Captures competitor preferences and reasons, providing insights into gaps and opportunities for repositioning Aunty Funmi’s Place.
     
-12. **Which of the following will describe Aunty Funmi’s Place?**  
+11. **Which of the following will describe Aunty Funmi’s Place?**  
     Informs brand design by showing how customers perceive the business, useful for shaping brand voice.  
 
-13. **What do you love to do most in your spare time?**  
+12. **What do you love to do most in your spare time?**  
     Through skip logic, captures customer lifestyle insights that deepen understanding beyond service use.  
 
-14. **What is most important to you when deciding to go to a nail salon?**  
+13. **What is most important to you when deciding to go to a nail salon?**  
     Helps design brand identity and customer experience by knowing what influences decision-making.  
 
-15. **How much would you say your average monthly income is?**  
+14. **How much would you say your average monthly income is?**  
     Supports customer segmentation and informs pricing strategies.  
 
-16. **When coming to Aunty Funmi’s Place, what do you mostly look forward to apart from getting your nail service?**  
+15. **When coming to Aunty Funmi’s Place, what do you mostly look forward to apart from getting your nail service?**  
     Explores additional experiences or values customers seek, aiding brand positioning beyond core services.  
 
-17. **What social media do you mostly use***  
+16. **What social media do you mostly use***  
     Determines where customers are most active online, guiding marketing and engagement efforts.  
 
-18. **What is your approximate age?**  
+17. **What is your approximate age?**  
     Part of demographic profiling to identify age segments and refine personas.  
 
-19. **What don’t you like about Aunty Funmi’s Place***  
+18. **What don’t you like about Aunty Funmi’s Place***  
     Highlights weaknesses or pain points, guiding operational improvements and better service delivery.  
 
-20. **How likely is it that you would recommend Aunty Funmi’s Place to friends and family?**  
+19. **How likely is it that you would recommend Aunty Funmi’s Place to friends and family?**  
     Serves as a Net Promoter Score (NPS) question to measure loyalty, referrals, and brand advocacy.  
  
 
