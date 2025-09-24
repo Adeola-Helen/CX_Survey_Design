@@ -13,16 +13,15 @@ Each survey design folder includes the following components:
 - **Survey Recources:** Provides supporting materials such as the exported form, logic flow, and sampling notes to give full transparency into how the survey was structured and implemented.
 
 
-## Technologies Used  
-
-- **Google Forms:** For data collection and to initially analyze responses.
-
-
 ## Survey Areas
 
 - [Customer Experience Survey](Aunty_Funmi's_Place/)
 - [Customer Satisfaction Survey](TVN/)
 
+
+## Technologies Used  
+
+- **Google Forms:** For data collection and to initially analyze responses.
 
 ## Explore Project  
 
