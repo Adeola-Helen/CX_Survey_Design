@@ -21,7 +21,7 @@ The objectives of the survey design were to:
 
 ## Sampling Strategy  
 
-The survey was distributed through **product distributors** who had direct access to TVN customers at the point of sale. This ensured that feedback was collected from actual users who had recently interacted with the product. To encourage participation and improve response quality, customers were asked to fill the forms immediately after purchase and were given a small incentive as appreciation for their time. This approach provided a reliable snapshot of **real-time customer satisfaction**, grounded in authentic product experiences rather than hypothetical responses.  
+The survey was distributed through product distributors who had direct access to TVN customers at the point of sale. This ensured that feedback was collected from actual users who had recently interacted with the product. To encourage participation and improve response quality, customers were asked to fill the forms immediately after purchase and were given a small incentive as appreciation for their time. This approach provided a reliable snapshot of real-time customer satisfaction, grounded in authentic product experiences rather than hypothetical responses.  
 
 
 ## Survey Design & Rationale  
