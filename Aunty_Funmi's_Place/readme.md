@@ -27,33 +27,33 @@ This combined approach ensured participation from both loyal returning customers
 Each question in the survey was designed with a clear purpose, directly tied to business needs:  
 
 1. **What is your name?** 
-   Basic identifier for record-keeping and follow-up, though not essential for analysis.  
+   Basic identifier for record-keeping and follow-up, though not essential for analysis.
 
-2. **Where is your location?**   
+3. **Where is your location?**   
    Part of demographic profiling to understand where customers are coming from and support geographic targeting.  
 
-3. **How long have you been a customer at Aunty Funmi’s Place?**  
+4. **How long have you been a customer at Aunty Funmi’s Place?**  
    Measures loyalty and tenure, serving as a trust indicator.  
 
-4. **What is it about Aunty Funmi’s Place that makes you go there?**  
+5. **What is it about Aunty Funmi’s Place that makes you go there?**  
    Captures customer satisfaction drivers and highlights what to emphasize in branding and marketing.  
 
-5. **Which set(s) of service do you opt for at Aunty Funmi’s Place?** 
+6. **Which set(s) of service do you opt for at Aunty Funmi’s Place?** 
    Identifies the most popular services, helping the business know what moves better and inform product bundling strategies.  
 
-6. **How often do you come to Aunty Funmi’s Place for these services?** 
+7. **How often do you come to Aunty Funmi’s Place for these services?** 
    Supports service frequency analysis to better advise bundling decisions and customer engagement strategies.  
 
-7. **What is your marital status?**   
+8. **What is your marital status?**   
    Provides data for persona building and lifestyle-based segmentation.  
 
-8. **Is Aunty Funmi’s Place your first choice for your nail services?**  
+9. **Is Aunty Funmi’s Place your first choice for your nail services?**  
    Evaluates customer loyalty and competitive standing through the eyes of the customer.  
 
-9. **What is your Employment status?**   
+10. **What is your Employment status?**   
    Supports customer profiling by linking employment to purchasing power.  
 
-10. **If no, please state below your choice(s) of other nail salons and why they are your first choice?**  
+11. **If no, please state below your choice(s) of other nail salons and why they are your first choice?**  
     Captures competitor preferences and reasons, providing insights into gaps and opportunities for repositioning Aunty Funmi’s Place.
     
 12. **Which of the following will describe Aunty Funmi’s Place?**  
