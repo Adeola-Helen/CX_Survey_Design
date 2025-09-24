@@ -5,6 +5,7 @@ This project documents the design of a structured **customer satisfaction survey
 
 ## Background  
 TVN had already introduced its product into the market but needed to evaluate how well it was being received by customers. To remain competitive in the beverage industry, understanding satisfaction levels, perceived value, and customer loyalty was essential. The survey was designed to measure the product’s performance in real market conditions, highlighting both strengths and areas needing adjustment.
+
 Note: Certain details (e.g., sensitive business data or proprietary information) have been intentionally cropped or excluded from this repository to protect confidentiality, while retaining the core design, methodology, and insights for demonstration purposes.
 
 ## Objectives  
