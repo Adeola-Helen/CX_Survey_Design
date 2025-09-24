@@ -8,6 +8,7 @@ Each survey design folder includes the following components:
 - **Executive Summary:** A high-level overview highlighting the key findings and outcomes of the survey.  
 - **Background:** Context that explains why the survey was conducted and the business problem it addresses.  
 - **Objective:** The specific goals the survey aims to achieve and the questions it seeks to answer.
+- **Sampling Strategy:** How the data was collected from customers. 
 - **Survey Design & Rationale:** Explains the purpose behind each question, ensuring that every item in the questionnaire directly supports the business objectives and insight goals.
 - **Survey Recources:** Provides supporting materials such as the exported form, logic flow, and sampling notes to give full transparency into how the survey was structured and implemented.
 
@@ -19,8 +20,8 @@ Each survey design folder includes the following components:
 
 ## Survey Areas
 
-- Customer Experience Survey
-- Product Satisfaction Survey
+- [Customer Experience Survey](Aunty_Funmi's_Place/)
+- [Customer Satisfaction Survey](TVN/)
 
 
 ## Explore Project  
