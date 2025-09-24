@@ -14,8 +14,7 @@ Each survey design folder includes the following components:
 
 ## Technologies Used  
 
-- **Google Forms:** For data collection and to initially analyze responses. 
-- **Google Sheets:** for deeper analysis and presentation of the results.
+- **Google Forms:** For data collection and to initially analyze responses.
 
 
 ## Survey Areas
